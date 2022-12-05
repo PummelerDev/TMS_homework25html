@@ -1,0 +1,39 @@
+.header{
+    width: 100%;
+    height: 80px;
+    background-color: #9f9d9d;
+    text-align: center;
+    margin-bottom: 10px;
+    font: 28px/32px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+    }
+
+.floor{
+    width: 100%;
+    height: 80px;
+    background-color: #cdcccc;
+    text-align: center;
+    align-content: center;
+    margin-bottom: 10px;
+    font: 14px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+}
+
+.main {
+    background: #cdcccc;
+    color: #666;
+    font: 14px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+    display: inline-block;
+    width: auto;
+    height: auto;
+    margin: 10px 10px 10px;
+    padding-top: 20px;
+    text-align: center;
+    align-content: center;
+    border: 3px solid #9f9d9d;
+}
+
+.btn-social_ig:after {
+    margin: -5px 0 0 -8px;
+    width: 16px;
+    height: 10px;
+    background-position: -22px -39px;
+}
